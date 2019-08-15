@@ -1,0 +1,52 @@
+[
+  {
+    "name": "快餐便当",
+    "sub_categories": [
+      {
+        "name": "全部快餐便当",
+        "level": 1
+      },
+      {
+        "name": "简餐",
+        "level": 2
+      },
+      {
+        "name": "盖浇饭",
+        "level": 2
+      },
+      {
+        "name": "包子粥店",
+        "level": 2
+      },
+      {
+        "name": "香锅砂锅",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "name": "小吃夜宵",
+    "sub_categories": [
+      {
+        "name": "全部小吃夜宵",
+        "level": 1
+      },
+      {
+        "name": "小龙虾",
+        "level": 2
+      },
+      {
+        "name": "地方小吃",
+        "level": 2
+      },
+      {
+        "name": "烧烤",
+        "level": 2
+      },
+      {
+        "name": "零食",
+        "level": 2
+      }
+    ]
+  }
+]

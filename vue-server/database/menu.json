@@ -1,0 +1,38 @@
+[
+  {
+    "id": 7549,
+    "name": "优惠",
+    "restaurant_id": 9385,
+    "description": "美味又实惠, 大家快来抢!"
+  },
+  {
+    "id": 1,
+    "name": "日料",
+    "restaurant_id": 1,
+    "description": "美味又实惠, 大家快来抢!"
+  },
+  {
+    "id": 2,
+    "name": "热销榜",
+    "restaurant_id": 2,
+    "description": "美味又实惠, 大家快来抢!"
+  },
+  {
+    "id": 3,
+    "name": "好吃榜",
+    "restaurant_id": 3,
+    "description": "美味又实惠, 大家快来抢!"
+  },
+  {
+    "name": "56",
+    "description": "65",
+    "id": 4,
+    "restaurant_id": 4
+  },
+  {
+    "name": "测试3",
+    "description": "测试4",
+    "id": 5,
+    "restaurant_id": 5
+  }
+]
